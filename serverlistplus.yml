@@ -1,0 +1,26 @@
+--- !Status
+Default:
+  Description:
+  - |-       
+     &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &b&lEXAMPLE &f&l[Skyblock]
+     &r &r &7&o(( &b&oSkyblock &7&ois succesfully &f&oreleased! &7&oJoin now! ))
+
+  Players:
+    Hover:
+    - |-
+      &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &r &b&lEXAMPLE &f&l[Skyblock]
+      &7&oWelcome to &f&oEXAMPLE, &7&owe are upcoming
+      &b&oSkyblock &7&oserver that offers a high quality experience!
+      &7
+      &b&lOur Servers: 
+      &7 &3&l* &b[Skyblock] &7%online% players      
+      &7
+      &b&lOur Informations:
+      &7 &3&l* &b[Discord] &7discord.example.net
+      &7 &3&l* &b[Store] &7store.example.net
+    Slots:
+    - |-
+      &4&l» &cWhitelist
+  Favicon:
+    Folders:
+    - icons
